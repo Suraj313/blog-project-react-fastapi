@@ -25,18 +25,6 @@ This is a complete web application that allows users to create, view, edit, and 
 -   **Database:**
     -   MySQL
 
-## 📸 Screenshots
-
-*Include screenshots of your application here. For example:*
-
-*Login Page*
-[Image of the application's login page]
-
-*Homepage Feed*
-[Image of the application's homepage]
-
-*Create Post Form*
-[Image of the create post form]
 
 ## 🚀 Getting Started
 
